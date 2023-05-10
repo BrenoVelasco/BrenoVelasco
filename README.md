@@ -1,7 +1,7 @@
 # This is Breno. 
 
 <p><b><a href="www.brenovelasco.vercel.app" target="_blank" rel="noopener noreferrer">Visit my website</a></b><p>
-<p>I'm helping companies motivate and retain great employees at <a href="https://www.sparckco.com/" target="_blank">Sparck</a>.</p>
+<p>I'm helping companies scale their subscriptions at <a href="https://www.subscribepro.com/" target="_blank">Subscribe Pro</a>.</p>
 <p>
   <a href="https://www.linkedin.com/in/breno-velasco-a653ab127/">
     <img src="https://img.shields.io/badge/-My LinkedIn-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/breno-velasco-a653ab127/" alt="LinkedIn Badge">
@@ -39,7 +39,7 @@
   <li>I am passionate about programming and UI/UX design</li>
   <li>I love playing the guitar, piano and violin</li>
   <li>Currently studying German</li>
-  <li>Playing DayZ and Rocket League every <strike>night</strike> week</li>
+  <li>Playing GT7 and COD on a <strike>daily</strike> <strike>weekly</strike> monthly basis</li>
 </ul>
 
 <img src="https://i.imgur.com/oGIeEoG.png">
